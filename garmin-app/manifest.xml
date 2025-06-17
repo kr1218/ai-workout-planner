@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://www.garmin.com/xml/connectiq" version="1">
+    <id>ai.workout.planner</id>
+    <name>AI Workout Planner</name>
+    <type>watch-app</type>
+    <version>1.0.0</version>
+    <permissions>
+        <permission>Communications</permission>
+    </permissions>
+    <languages>
+        <language>en</language>
+    </languages>
+    <products>
+        <product id="vivoactive4"/>
+    </products>
+</manifest>
